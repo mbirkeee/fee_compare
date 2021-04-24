@@ -1,0 +1,13 @@
+*.o
+*.obj
+*.~cpp
+*.~dsk
+*.~bpr
+*.~h
+*.bak
+*.log
+*.pyc
+.idea
+md5sum_cache_*
+__pycache__
+data/
